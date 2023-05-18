@@ -1,8 +1,7 @@
 <template>
   <q-item
     clickable
-    tag="a"
-    target="_blank"
+    to="/test"
     :href="link"
   >
     <q-item-section
