@@ -54,7 +54,7 @@ const linksList = [
     title: 'Test',
     caption: 'let\'s go',
     icon: 'school',
-    link: 'https://quasar.dev'
+    link: '/#/test'
   }
 ];
 
